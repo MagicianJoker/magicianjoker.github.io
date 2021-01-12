@@ -2,6 +2,7 @@
 title: "Unity UGUI制作规范"
 subtitle: "「记录」积累"
 layout: post
+date:   2020-05-01
 author: "MagicianJoker"
 header-style: text
 tags:
