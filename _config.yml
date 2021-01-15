@@ -60,7 +60,8 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "God helps those who help themselves<br>恨是盲目的,爱亦然"
-sidebar-avatar: /img/couple.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "https://magicianhoker.oss-cn-beijing.aliyuncs.com/ImgBed/20210115184013.jpg"
+# sidebar-avatar: /img/couple.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
