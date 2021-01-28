@@ -1,8 +1,8 @@
 ---
-title: "Unity编辑器扩展"
-subtitle: "自定义操作界面"
+title: "Unity编辑器扩展(二)"
+subtitle: "自定义Inspector"
 layout: post
-date:   2021-01-07
+date:   2021-01-03
 author: "MagicianJoker"
 header-style: text
 tags:
