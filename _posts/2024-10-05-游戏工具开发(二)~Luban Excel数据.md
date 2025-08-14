@@ -1,0 +1,21 @@
+---
+title: "游戏工具开发(二)"
+subtitle: "Luaban Excel数据"
+layout: post
+date:   2024-10-05
+author: "MagicianJoker"
+header-style: text
+tags:
+  - 工具
+  - Unity
+---
+
+
+
+## 数据类型
+
+1. int 
+2. float
+3. string
+4. array
+5. map

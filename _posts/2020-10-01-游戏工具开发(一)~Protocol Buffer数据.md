@@ -59,6 +59,8 @@ protobuf的.dll文件是实现类的对象及数据转换所需要用到的,针�
 
    此时把生成的文件放入到Unity工程之中,就可以愉快的玩耍了
 
+   <font color=yellow>也可以通过VS的NuGet包管理获取相应的文件</font>
+
 2. [.Net社区版](https://github.com/protobuf-net/protobuf-net)    主库名:protobuf-net.dll
 
 ![image-20210122154201688](https://magicianhoker.oss-cn-beijing.aliyuncs.com/ImgBed/20210122154201.png)

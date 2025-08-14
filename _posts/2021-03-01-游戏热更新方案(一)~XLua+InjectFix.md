@@ -1,5 +1,5 @@
 ---
-title: "游戏热更新方案(二)"
+title: "游戏热更新方案(一)"
 subtitle: "Xlua+InjectFix"
 layout: post
 date:   2021-03-01
